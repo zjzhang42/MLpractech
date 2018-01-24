@@ -1,1 +1,1 @@
-# Basic Practices with Machine Learning Techniques
+# Practices and Tools of Machine Learning Techniques
