@@ -32,7 +32,6 @@
 *.sql
 *.sqlite
 *.ipynb_checkpoints
-*/metastore_db/*
 
 # OS generated files #
 ######################
